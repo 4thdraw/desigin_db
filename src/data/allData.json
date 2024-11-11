@@ -1,7 +1,7 @@
 {
   "navdata": [
     {
-      "linkto" : "products",
+      "linkto" : "",
       "title" : "카테고리",
       "submenu": [
         {
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "linkto" : "whatsnew",
+      "linkto" : "#whatsnew",
       "title" : "신상품",
       "submenu": []
     },

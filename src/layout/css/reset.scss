@@ -1,0 +1,17 @@
+p, li, ul, h1, h2, h3{
+  margin: 0;
+  padding: 0;
+}
+ul, li{
+  list-style: none;
+}
+a{ text-decoration: none; color:black}
+
+#root{
+  .active{
+    color: rgb(233, 124, 0) !important
+  }
+  .show{
+    display:  block !important;
+  }
+}
